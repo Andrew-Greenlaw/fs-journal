@@ -27,7 +27,7 @@ hyper text markup language
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+cascading style sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
@@ -38,35 +38,35 @@ hyper text markup language
 ```
 <!-- enter you answer in the space below -->
 ```
-
+a selector with some kind of property and value.
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+ the text property 
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+body tag
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+numbered (ol) bulleted (ul) and definition (dl)
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+when something is flexed it means when a bunch of blocks dont fit on a line it will shove it on the next line making everything fit
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+the height and width properties
 ```
