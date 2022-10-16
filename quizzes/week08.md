@@ -13,7 +13,7 @@ its the most inportant part when using node. it is what iniciates all the things
 <!-- enter you answer in the space below -->
 
 ```
-usually at the pont of publishing to npm because it will help govern all the dependincies to even run your code.
+when you build your application because the npm will install all the dependencies it needs to run without it being in vue.
 ```
 
 **3.** What command will ensure that your Vue code is compiled properly for deployment?
@@ -21,7 +21,7 @@ usually at the pont of publishing to npm because it will help govern all the dep
 <!-- enter you answer in the space below -->
 
 ```
-npm i is needed so that you install all the packages to run everything properly.
+npm run build is what changes your code from the vue files into what looks like vanilla javascript.
 ```
 
 **4.** **\_\_\_** are used to provide your application with specific data based on it's environment. For example: connections strings, private keys or port. Fill in the blank.
@@ -29,7 +29,7 @@ npm i is needed so that you install all the packages to run everything properly.
 <!-- enter you answer in the space below -->
 
 ```
-api's? i dont know this question confuses me. i feel like i need more context.
+at first this question didnt make sense but now i know its the .env file in our code that stores all this stuff.
 ```
 
 **5.** What are the two ways to view the logs from your Heroku app.
