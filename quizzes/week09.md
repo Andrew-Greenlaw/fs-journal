@@ -69,7 +69,7 @@ based on what your website is doing you could have a logged in user or a logged 
 <!-- enter you answer in the space below -->
 
 ```
-the first sprint meeting you should create a backlog.
+the first sprint planning meeting you should create a backlog.
 ```
 
 **10.** In which of these ceremonies are Tasks assigned to you?
@@ -77,5 +77,5 @@ the first sprint meeting you should create a backlog.
 <!-- enter you answer in the space below -->
 
 ```
-sprints, daily sprints and what not.
+after sprint planning, daily sprints and what not.
 ```
